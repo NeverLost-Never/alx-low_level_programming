@@ -13,3 +13,6 @@
 >>> 3-name
 	=> gcc $CFILE -o cisfun
 	- compiles a C file and creates an executable named cisfun
+
+>>> 4-puts.c
+	- prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
