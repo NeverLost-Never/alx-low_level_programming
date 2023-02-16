@@ -5,3 +5,7 @@
 >>> 1-compiler
 	=> gcc -c $CFILE
 	- compiles a C file (names saved in a variable, CFILE) but does not link
+
+>>> 3-assembler
+	=> gcc -c -S $CFILE
+	-  generates the assembly code of a C code and save it in an output file
