@@ -9,3 +9,6 @@
 
 >>> 3-print_alphabets.c
 	- prints the alphabet in lowercase, and then in uppercase, followed by a new line
+
+>>> 4-print_alphbt.c
+	- prints the alphabet in lowercase, followed by a new line
