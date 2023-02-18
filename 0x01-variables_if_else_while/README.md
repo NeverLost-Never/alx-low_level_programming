@@ -29,4 +29,7 @@
 	- prints all possible combinations of single-digit numbers
 
 >>> 100-print_comb3.c
-	-  prints all possible different combinations of two digits 
+	- prints all possible different combinations of two digits
+
+>>> 101-print_comb4.c
+	- prints all possible different combinations of three digits 
