@@ -27,3 +27,6 @@
 
 >>> 9-times_table.c
 	- prints the 9 times table, starting with 0
+
+>>> 10-add.c
+	- returns the sum of two numbers
