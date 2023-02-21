@@ -6,3 +6,6 @@
 
 >>> 2-alphabets_x10
 	- prints alphabets 10 times on the screen
+
+>>> 3-islower.c
+	- checks for lowercase character
