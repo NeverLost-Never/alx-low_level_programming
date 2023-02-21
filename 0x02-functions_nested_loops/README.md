@@ -12,3 +12,6 @@
 
 >>> 4-isalpha.c
 	- checks for alphabetic character
+
+>>> 5-sign.c
+	- prints the sign of a number
