@@ -15,3 +15,6 @@
 
 >>> 5-sign.c
 	- prints the sign of a number
+
+>>> 6-abs.c
+	- returns the absolute of a number
