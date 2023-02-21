@@ -30,3 +30,6 @@
 
 >>> 10-add.c
 	- returns the sum of two numbers
+
+>>> 11-print_to_98.c
+	- prints all natural numbers from n to 98, followed by a new line
