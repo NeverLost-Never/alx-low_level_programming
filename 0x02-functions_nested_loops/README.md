@@ -9,3 +9,6 @@
 
 >>> 3-islower.c
 	- checks for lowercase character
+
+>>> 4-isalpha.c
+	- checks for alphabetic character
