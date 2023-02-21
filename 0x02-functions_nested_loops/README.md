@@ -18,3 +18,6 @@
 
 >>> 6-abs.c
 	- returns the absolute of a number
+
+>>> 7-print_last_digit.c
+	- prints the last digit of a number
