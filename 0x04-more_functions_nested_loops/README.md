@@ -3,3 +3,6 @@
 
 >>> 1-isdigit.c
 	- checks for a digit (0 thorugh 9)
+
+>>> 2-mul.c
+	- multiplies two integers
