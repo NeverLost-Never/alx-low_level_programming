@@ -21,3 +21,6 @@
 
 >>> 7-print_diagonal.c
 	- draws a diagonal line on the terminal
+
+>>> 8-print_square.c
+	- prints a square, followed by a new line
