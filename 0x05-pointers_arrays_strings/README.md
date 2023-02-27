@@ -6,3 +6,6 @@
 
 >>> 2-strlen.c
 	- provides similiar functionalities to strlen
+
+>>> 3-puts.c
+	- provides smiliar functionalities to puts
