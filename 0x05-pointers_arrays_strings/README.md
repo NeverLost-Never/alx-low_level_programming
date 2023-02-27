@@ -3,3 +3,6 @@
 
 >>> 1-swap.c
 	- swaps the values of two integers
+
+>>> 2-strlen.c
+	- provides similiar functionalities to strlen
