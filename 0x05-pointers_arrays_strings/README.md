@@ -9,3 +9,6 @@
 
 >>> 3-puts.c
 	- provides smiliar functionalities to puts
+
+>>> 4-print_rev.c
+	- prints a string, in reverse, followed by a new line
