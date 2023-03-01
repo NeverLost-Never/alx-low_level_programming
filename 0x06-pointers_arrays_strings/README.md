@@ -6,3 +6,6 @@
 
 >>> 2-strncpy.c
 	- copies a string until nth character
+
+>>> 3-strcmp.c
+	- compares two strings
