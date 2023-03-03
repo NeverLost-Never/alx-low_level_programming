@@ -21,3 +21,6 @@
 
 >>> 7-leet.c
 	- encodes a string into 1337
+
+>>> 100-rot13.c
+	- encodes a string using rot13
