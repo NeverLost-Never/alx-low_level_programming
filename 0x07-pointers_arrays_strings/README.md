@@ -16,3 +16,6 @@ Returns a pointer to the byte in s that matches one of the bytes in accept, or N
 
 >>> 5-strstr.c
 	- finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared
+
+>>> 7-print_chessboard.c
+	- prints the chessboard
