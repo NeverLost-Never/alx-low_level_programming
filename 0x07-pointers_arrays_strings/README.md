@@ -22,3 +22,6 @@ Returns a pointer to the byte in s that matches one of the bytes in accept, or N
 
 >>> 8-print_diagsums.c
 	- prints the sum of the two diagonals of a square matrix of integers
+
+>>> 100-set_string.c
+	- sets the value of a pointer to a char
